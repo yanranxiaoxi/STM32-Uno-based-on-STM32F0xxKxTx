@@ -2,7 +2,10 @@
 
 ⭐ 基于 STM32F0xxKxTx 系列单片机的 STM32 Uno 开发板 ⭐
 
-[GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx) | [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Uno-based-on-STM32F0xxKxTx)
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/commits/master)
+[![Latest Release](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/releases)
+
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Uno-based-on-STM32F0xxKxTx)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/STM32%20Uno%20based%20on%20STM32F0xxKxTx/Image/Product_quality_5.jpg)
 
@@ -10,9 +13,11 @@
 
 这是一个基于 STM32F0xxKxTx 系列单片机的 STM32 Uno 开发板，使用 [立创 EDA](https://lceda.cn/) 进行开发。
 
+## 🍭 使用说明
+
 本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
 
-你可以使用本项目的 [焊接助手](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/raw/master/InteractiveHtmlBom/index.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
+你可以使用本项目的 [焊接助手](https://interactivehtmlbom.soraharu.com/STM32-Uno-based-on-STM32F0xxKxTx.html) 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 流水线自动化生成。
 
 ## 🛠️ 生产电路板
 
