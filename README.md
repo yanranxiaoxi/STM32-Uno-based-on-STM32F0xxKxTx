@@ -4,8 +4,9 @@
 
 [![pipeline status](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/commits/master)
 [![Latest Release](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx/-/releases)
+[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
-🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Uno-based-on-STM32F0xxKxTx)
+🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/STM32-Uno-based-on-STM32F0xxKxTx) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/STM32-Uno-based-on-STM32F0xxKxTx) | 🔗 [GitHub](https://github.com/yanranxiaoxi/STM32-Uno-based-on-STM32F0xxKxTx)
 
 ![实拍图](https://downloadserver.soraharu.com:7000/STM32%20Uno%20based%20on%20STM32F0xxKxTx/Image/Product_quality_5.jpg)
 
